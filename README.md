@@ -1,4 +1,4 @@
-##👋 Olá, eu sou o Jhonny
+👋 Olá, eu sou o Jhonny
 ---
 
 **Desenvolvedor Front-end em formação • Focado em criação de interfaces web**
